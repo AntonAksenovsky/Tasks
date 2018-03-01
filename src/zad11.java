@@ -9,5 +9,6 @@ public class zad11 {
         Random random = new Random();
         int num = a + random.nextInt(b - a);
         System.out.println(num);
+        System.out.println(num);
     }
 }
