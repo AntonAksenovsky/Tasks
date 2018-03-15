@@ -7,7 +7,7 @@ public class zad11 {
         int a = scanner.nextInt();
         int b = scanner.nextInt();
         Random random = new Random();
-        int num =random.nextInt(b);
+        int num = a + random.nextInt(b - a);
         System.out.println(num);
         System.out.println(num);
     }
