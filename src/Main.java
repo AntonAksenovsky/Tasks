@@ -8,7 +8,7 @@ public class Main {
     public static void fill() {
         System.out.println("Введите количество сотрудников");
         int n = in.nextInt();
-
+        System.out.println("Фамилия Имя Должность Зарплата");
         for (int i = 0; i < n; i++) {
             Employee employee = new Employee(in.next(), in.next(), Rank.valueOf(in.next()), in.nextInt());
             office.add(employee);
@@ -23,7 +23,7 @@ public class Main {
         String rankName = in.next();
         Rank rank = Rank.getRank(rankName);
         if (rank == null) {
-            System.out.println("Неизвестная должность" + rankName);
+            System.out.println("Неизвестная должность " + rankName);
         } else {
             for (Employee employee : office.find(rank)) {
                 System.out.println(employee);
@@ -36,8 +36,11 @@ public class Main {
         String command = in.next();
         if (command.equals("fill")) {
             fill();
-            outInfo();
         }
+        outInfo();
+        find();
+
+
 
     /*
         office office = new office();

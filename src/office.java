@@ -33,4 +33,10 @@ public class office {
         return result;
     }
 
+    public void sort() {
+        List<Integer> intList = new ArrayList<>();
+        for (Employee employee : this.list) {
+
+        }
+    }
 }
