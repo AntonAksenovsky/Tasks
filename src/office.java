@@ -1,9 +1,12 @@
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 
 public class office {
 
     private ArrayList<Employee> list = new ArrayList<>();
+    // private Comparator<Employee>;
 
     public boolean isEmployeeinoffice(Employee employee) {
         return list.contains(employee);
@@ -34,9 +37,14 @@ public class office {
     }
 
     public void sort() {
-        List<Integer> intList = new ArrayList<>();
-        for (Employee employee : this.list) {
-
+        for (int i = list.size()-1; i > 0; i--) {
+            for (int j = 0; j < i; j++) {
+                if (list.get(j).compareTo(list.get(j + 1)) > 0) {
+                    Employee buf = list.get(j);
+                    list.set(j, list.get(j + 1));
+                    list.set(j + 1, buf);
+                }
+            }
         }
     }
 }

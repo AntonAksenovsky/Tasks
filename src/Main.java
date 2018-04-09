@@ -30,7 +30,10 @@ public class Main {
             }
         }
     }
-
+    public static void sort(){
+        office.sort();
+        office.showEmployeeList();
+    }
     public static void main(String[] args) {
         System.out.println("Введите команду");
         String command = in.next();
@@ -39,25 +42,6 @@ public class Main {
         }
         outInfo();
         find();
-
-
-
-    /*
-        office office = new office();
-        Employee IvanovIvan = new Employee("Petrov", "Ivan",rank.ENGINEER,15);
-        office.add(IvanovIvan);
-        System.out.println(office.isEmployeeinoffice(IvanovIvan));
-        Employee PetrovPetr = new Employee("Ivanov", "Petr", rank.DIRECTOR, 20);
-        office.add(PetrovPetr);
-        System.out.println(office.isEmployeeinoffice(PetrovPetr));
-        office.showEmployeeList();
-
-        String a = "инжинер";
-        boolean b = Rank.isRankExist(a);
-        if (b) {
-            System.out.println("Не существует" + a);
-            return;
-        }
-    */
+        sort();
     }
 }

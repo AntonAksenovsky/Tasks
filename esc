@@ -1,0 +1,126 @@
+* [33mcommit dfca63d86906a32889228ddb5107f12cbe27b8b0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+[31m|[m Author: Aksenovskiy_Anton <axelgong@gmail.com>
+[31m|[m Date:   Thu Apr 5 15:01:26 2018 +0300
+[31m|[m 
+[31m|[m     oop update
+[31m|[m 
+* [33mcommit f1ed2dcf5d98cd2e0cafe4ad570f195179cfb2bf[m
+[31m|[m Author: Aksenovskiy_Anton <axelgong@gmail.com>
+[31m|[m Date:   Thu Mar 29 16:30:47 2018 +0300
+[31m|[m 
+[31m|[m     oop1
+[31m|[m 
+* [33mcommit 1db4a6f342804ac4f06a0c408449b37f9d6812c2[m
+[31m|[m Author: Aksenovskiy_Anton <axelgong@gmail.com>
+[31m|[m Date:   Thu Mar 22 16:39:39 2018 +0300
+[31m|[m 
+[31m|[m     oop1
+[31m|[m 
+* [33mcommit ffa05b8e3170a10006d636e67c1a173a4277c3bf[m
+[31m|[m Author: Anton Aksenovsky <axelgong@gmail.com>
+[31m|[m Date:   Tue Mar 20 14:52:53 2018 +0300
+[31m|[m 
+[31m|[m     18,20
+[31m|[m 
+* [33mcommit 1383f7dcbd66aa3156efc28340ddad65489d4a33[m
+[31m|[m Author: Aksenovskiy_Anton <axelgong@gmail.com>
+[31m|[m Date:   Thu Mar 15 15:55:09 2018 +0300
+[31m|[m 
+[31m|[m     oop1
+[31m|[m 
+* [33mcommit 95b1ecb55d20142c8055edeb9d8255b16be26880[m
+[31m|[m Author: Anton Aksenovsky <axelgong@gmail.com>
+[31m|[m Date:   Thu Mar 15 04:03:42 2018 +0300
+[31m|[m 
+[31m|[m     otmena changes 11
+[31m|[m 
+* [33mcommit b8e5b4cf8ad54b8e962d668616129df7c49b90ce[m
+[31m|[m Author: Anton Aksenovsky <axelgong@gmail.com>
+[31m|[m Date:   Thu Mar 15 03:59:09 2018 +0300
+[31m|[m 
+[31m|[m     -tas
+[31m|[m 
+* [33mcommit 3e204b2d21d9eda3a04a0d71983e3135dcec13d6[m
+[31m|[m Author: Anton Aksenovsky <axelgong@gmail.com>
+[31m|[m Date:   Thu Mar 15 03:57:48 2018 +0300
+[31m|[m 
+[31m|[m     -tas
+[31m|[m 
+* [33mcommit 89080e5180ba80f00d437400908ae5697032117b[m
+[31m|[m Author: Anton Aksenovsky <axelgong@gmail.com>
+[31m|[m Date:   Thu Mar 15 03:51:32 2018 +0300
+[31m|[m 
+[31m|[m     15,16,17
+[31m|[m 
+* [33mcommit 9e7bbd6ef114e5033c6cd9980814d4e47de7e3f0[m
+[31m|[m Author: Anton Aksenovsky <axelgong@gmail.com>
+[31m|[m Date:   Thu Mar 15 02:41:33 2018 +0300
+[31m|[m 
+[31m|[m     add Tasks.iml
+[31m|[m 
+* [33mcommit c8bd59ccd073701a58e6b76cc50267c767030364[m
+[31m|[m Author: Aksenovskiy_Anton <axelgong@gmail.com>
+[31m|[m Date:   Thu Mar 1 16:47:41 2018 +0300
+[31m|[m 
+[31m|[m     12,13,14,19
+[31m|[m 
+* [33mcommit 7677bfdc368540552032a63f77b60339104d445c[m
+[31m|[m Author: Aksenovskiy_Anton <axelgong@gmail.com>
+[31m|[m Date:   Thu Mar 1 13:09:12 2018 +0300
+[31m|[m 
+[31m|[m     change zad11
+[31m|[m 
+* [33mcommit 052e75fef9d43926b8c86e716d433674882adb9b[m
+[31m|[m Author: Aksenovskiy_Anton <axelgong@gmail.com>
+[31m|[m Date:   Thu Mar 1 13:08:26 2018 +0300
+[31m|[m 
+[31m|[m     delete out
+[31m|[m 
+* [33mcommit c148cd56237a794435f01a7d87fc000df17f1deb[m
+[31m|[m Author: Aksenovskiy_Anton <axelgong@gmail.com>
+[31m|[m Date:   Thu Mar 1 12:56:34 2018 +0300
+[31m|[m 
+[31m|[m     delete .idea/
+[31m|[m   
+*   [33mcommit b16f62d3bd97acaabef06362c121bda344c4e397[m
+[32m|[m[33m\[m  Merge: 0bf19c6 e360506
+[32m|[m [33m|[m Author: Aksenovskiy_Anton <axelgong@gmail.com>
+[32m|[m [33m|[m Date:   Thu Mar 1 12:53:47 2018 +0300
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Merge branch 'master' of https://github.com/AntonAksenovsky/Tasks
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit e3605064d6b2b2fb659c13405ce3734714ae1c63[m
+[32m|[m [33m|[m Author: Anton Aksenovsky <axelgong@gmail.com>
+[32m|[m [33m|[m Date:   Wed Feb 28 16:29:44 2018 +0300
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     321
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit e2e8203db3a65f860322410f9f7bc5a8686c876f[m
+[32m|[m [33m|[m Author: Anton Aksenovsky <axelgong@gmail.com>
+[32m|[m [33m|[m Date:   Wed Feb 28 16:22:14 2018 +0300
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     123
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit d0351677571f21e96d73c025cff658e14434b63e[m
+[32m|[m [33m|[m Author: Anton Aksenovsky <axelgong@gmail.com>
+[32m|[m [33m|[m Date:   Wed Feb 28 16:17:28 2018 +0300
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     9-11
+[32m|[m [33m|[m 
+* [33m|[m [33mcommit 0bf19c6bbbd3764f047b9ce7dda2463efde04b0c[m
+[33m|[m [33m|[m Author: Aksenovskiy_Anton <axelgong@gmail.com>
+[33m|[m [33m|[m Date:   Thu Mar 1 12:47:30 2018 +0300
+[33m|[m [33m|[m 
+[33m|[m [33m|[m     delete workspase
+[33m|[m [33m|[m 
+* [33m|[m [33mcommit 6e2fa616a832f4c229e76762aec6b9c3c3a0659b[m
+[33m|[m[33m/[m  Author: Aksenovskiy_Anton <axelgong@gmail.com>
+[33m|[m   Date:   Thu Mar 1 12:43:49 2018 +0300
+[33m|[m   
+[33m|[m       gitignore
+[33m|[m 
+* [33mcommit dbbba64da544c9771b43e789d2d3696f06ff51d4[m
+  Author: Aksenovskiy_Anton <axelgong@gmail.com>
+  Date:   Thu Feb 22 16:53:25 2018 +0300
+  
+      1-8
