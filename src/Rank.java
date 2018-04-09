@@ -1,4 +1,5 @@
 public enum Rank {
+
     ENGINEER("Инженер"),
     SENIOR_ENGINEER("Старший инженер"),
     LEADING_ENGINEER("Ведущий инженер"),
@@ -18,18 +19,9 @@ public enum Rank {
         return name;
     }
 
-    public static boolean isRankExist(String rankName) {
+    public static Rank getRank(String rankName) {
         for (Rank element : values()) {
             if (rankName.equals(element.getName())) {
-                return true;
-            }
-        }
-        return false;
-    }
-
-    public static Rank getRank(String rankName){
-        for (Rank element : values()){
-            if (rankName.equals(element.getName())){
                 return element;
             }
         }

@@ -9,20 +9,8 @@ public class Employee extends Object implements Comparable {
         return lastName;
     }
 
-    public String getFirstName() {
-        return firstName;
-    }
-
     public int getMoney() {
         return money;
-    }
-
-    public void setLastName(String lastName) {
-        this.lastName = lastName;
-    }
-
-    public void setMoney(int money) {
-        this.money = money;
     }
 
     public Rank getRank() {
@@ -36,13 +24,6 @@ public class Employee extends Object implements Comparable {
         this.money = money;
     }
 
-    public void fill(String s1, String s2, Rank rank, int money) {
-        this.firstName = s1;
-        this.lastName = s2;
-        this.Rank = rank;
-        this.money = money;
-
-    }
 
     public String toString() {
         return lastName + " " + firstName + " " + this.Rank.getName() + " " + money;
